@@ -1,0 +1,89 @@
+# Roteiro de Vídeo com IA
+
+**Título do vídeo:**
+**Tema:**
+**Duração total:** 
+**Tom da narração:** (descontraído / sério / dramático / engraçado)
+**Público:** 
+**Formato:** (vertical 9:16 / horizontal 16:9)
+**Voz da narração:** masculina padrão do TikTok (texto escrito para a leitura automática: frases curtas, pontuação clara, números por extenso, sem siglas)
+**Estilo visual:** (realista / animação / cinematográfico / desenho...)
+**Música/trilha:** 
+
+---
+
+## Gancho (0:00 – 0:05)
+
+**Narração:**
+> 
+
+**Visual (prompt para gerar imagem/vídeo):**
+> 
+
+**Texto na tela:** 
+
+---
+
+## Cena 1 (0:05 – 0:15)
+
+**Narração:**
+> 
+
+**Visual (prompt):**
+> 
+
+**Texto na tela:** 
+
+**Efeito/transição:** 
+
+---
+
+## Cena 2 (0:15 – 0:25)
+
+**Narração:**
+> 
+
+**Visual (prompt):**
+> 
+
+**Texto na tela:** 
+
+**Efeito/transição:** 
+
+---
+
+## Cena 3 (0:25 – 0:35)
+
+**Narração:**
+> 
+
+**Visual (prompt):**
+> 
+
+**Texto na tela:** 
+
+**Efeito/transição:** 
+
+---
+
+## Fechamento / Chamada para ação (0:35 – 0:45)
+
+**Narração:**
+> 
+
+**Visual (prompt):**
+> 
+
+**Texto na tela:** (ex.: "Siga para mais!")
+
+---
+
+## Texto completo da narração (para colar na ferramenta de voz)
+
+> 
+
+---
+
+## Anotações
+
+- 
